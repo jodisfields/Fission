@@ -1,5 +1,6 @@
-<img align="center" width=40% heigh=40% src="assets/fission.png">
-
+<div align="center">
+<img width=40% heigh=40% src="assets/fission.png">
+</div>
 
 ###  📝 Table of Contents
 
@@ -16,28 +17,23 @@
 
 Fission is a fully featured network monitoring system written in python, powered by the Streamlit framework.
 
----
 
 ##  🏁 Getting Started <a name = "getting_started"></a>
 
 
 Will update this section later...
 
----
-
 ##  🎈 Usage <a name="usage"></a>
 
 
 Will update this section later...
 
----
 
 ##  🚀 Deployment <a name = "deployment"></a>
 
 
 Will update this section later...
 
----
 
 ##  ⛏️ Built Using <a name = "built_using"></a>
 
