@@ -1,6 +1,4 @@
-<div align="center">
-<img width=100% heigh=40% src="assets/fission.png">
-</div>
+<img align="center" width=100% heigh=40% src="assets/fission.png">
 
 ###  📝 Table of Contents
 
