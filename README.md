@@ -1,5 +1,5 @@
 <div>
-<img width=100% heigh=40% src="assets/fission.png">
+<img width=40% heigh=40% src="assets/fission.png">
 </div>
 
 ###  📝 Table of Contents
