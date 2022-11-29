@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <img width=100% heigh=40% src="assets/fission.png">
 </div>
 
