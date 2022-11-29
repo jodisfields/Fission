@@ -1,6 +1,5 @@
-<center>
-<img src="assets/fission.png" width=40% heigh=40%>
-</center>
+<img align="center" width=40% heigh=40% src="assets/fission.png">
+
 
 ###  📝 Table of Contents
 
@@ -11,7 +10,6 @@
 - [🚀 Deployment ](#deployment-a-name-deploymenta )
 - [⛏️ Built Using ](#️-built-using-a-name-built_usinga )
 
----
 
 ##  🧐 About <a name = "about"></a>
 
